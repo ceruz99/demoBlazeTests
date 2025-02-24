@@ -1,5 +1,5 @@
-﻿#Test Cases for Website Testing
-##Objective
+﻿# Test Cases for Website Testing
+## Objective
 The objective of these test cases is to validate the functionality, performance, and user experience of the website https://www.demoblaze.com/. These tests ensure that all features work as expected and meet the required standards.
 
 Test Case DetailsTest Scope: Covers core functionalities including navigation, form validation, responsiveness, and performance.
