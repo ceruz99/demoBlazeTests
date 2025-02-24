@@ -39,3 +39,11 @@ Analyze the failed tests and report necessary fixes.
 Implement changes and re-test if needed.
 
 ContactFor any queries or clarifications, reach out to the test author or project manager.
+
+## Test Case Screenshots
+
+Here are some screenshots of the executed test cases:
+
+- **Test Case 1:** ![Test Case 1](https://github.com/ceruz99/demoBlazeTests/blob/main/screenshots/CartTestCases/TestCase1.JPG)
+- **Test Case 2:** [View Screenshot](https://github.com/ceruz99/demoBlazeTests/blob/main/screenshots/CartTestCases/TestCase2.JPG)
+
