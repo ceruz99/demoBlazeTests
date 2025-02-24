@@ -42,8 +42,38 @@ ContactFor any queries or clarifications, reach out to the test author or projec
 
 ## Test Case Screenshots
 
-Here are some screenshots of the executed test cases:
+### Cart Test Cases
 
-- **Test Case 1:** ![Test Case 1](https://github.com/ceruz99/demoBlazeTests/blob/main/screenshots/CartTestCases/TestCase1.JPG)
-- **Test Case 2:** [View Screenshot](https://github.com/ceruz99/demoBlazeTests/blob/main/screenshots/CartTestCases/TestCase2.JPG)
+- **Test Case 1:** ![Test Case 1](https://github.com/ceruz99/demoBlazeTests/blob/main/screenshots/CartTestCases/TestCase1.JPG)  
+- **Test Case 2:** ![Test Case 2](https://github.com/ceruz99/demoBlazeTests/blob/main/screenshots/CartTestCases/TestCase2.JPG)  
+- **Test Case 3:** ![Test Case 3](https://github.com/ceruz99/demoBlazeTests/blob/main/screenshots/CartTestCases/TestCase3.JPG)  
+- **Test Case 4:** ![Test Case 4](https://github.com/ceruz99/demoBlazeTests/blob/main/screenshots/CartTestCases/TestCase4.JPG)  
+- **Test Case 5:** ![Test Case 5](https://github.com/ceruz99/demoBlazeTests/blob/main/screenshots/CartTestCases/TestCase5.JPG)  
+- **Test Case 6.1:** ![Test Case 6.1](https://github.com/ceruz99/demoBlazeTests/blob/main/screenshots/CartTestCases/TestCase6.1.JPG)  
+- **Test Case 6.2:** ![Test Case 6.2](https://github.com/ceruz99/demoBlazeTests/blob/main/screenshots/CartTestCases/TestCase6.2.JPG)  
+- **Test Case 7:** ![Test Case 7](https://github.com/ceruz99/demoBlazeTests/blob/main/screenshots/CartTestCases/TestCase7.JPG)  
+- **Test Case 8:** ![Test Case 8](https://github.com/ceruz99/demoBlazeTests/blob/main/screenshots/CartTestCases/TestCase8.JPG)  
+- **Test Case 9:** ![Test Case 9](https://github.com/ceruz99/demoBlazeTests/blob/main/screenshots/CartTestCases/TestCase9.JPG)  
+- **Test Case 10:** ![Test Case 10](https://github.com/ceruz99/demoBlazeTests/blob/main/screenshots/CartTestCases/TestCase10.JPG)  
+
+### Log in page Test Cases
+
+- **Test Case 1:** ![Test Case 1](https://github.com/ceruz99/demoBlazeTests/blob/main/screenshots/LogInTestCases/TestCase1.JPG)  
+- **Test Case 2:** ![Test Case 2](https://github.com/ceruz99/demoBlazeTests/blob/main/screenshots/LogInTestCases/TestCase2.JPG)  
+- **Test Case 3:** ![Test Case 3](https://github.com/ceruz99/demoBlazeTests/blob/main/screenshots/LogInTestCases/TestCase3.JPG)  
+- **Test Case 4:** ![Test Case 4](https://github.com/ceruz99/demoBlazeTests/blob/main/screenshots/LogInTestCases/TestCase4.JPG)  
+- **Test Case 5:** ![Test Case 5](https://github.com/ceruz99/demoBlazeTests/blob/main/screenshots/LogInTestCases/TestCase5.JPG)  
+- **Test Case 6:** ![Test Case 6](https://github.com/ceruz99/demoBlazeTests/blob/main/screenshots/LogInTestCases/TestCase6.JPG)  
+
+###Register Menu Test Cases
+- **Test Case 1:** ![Test Case 1](https://github.com/ceruz99/demoBlazeTests/blob/main/screenshots/RegisterMenuTestCases/TestCase1.JPG)  
+- **Test Case 2:** ![Test Case 2](https://github.com/ceruz99/demoBlazeTests/blob/main/screenshots/RegisterMenuTestCases/TestCase2.JPG)  
+- **Test Case 3:** ![Test Case 3](https://github.com/ceruz99/demoBlazeTests/blob/main/screenshots/RegisterMenuTestCases/TestCase3.JPG)  
+- **Test Case 4:** ![Test Case 4](https://github.com/ceruz99/demoBlazeTests/blob/main/screenshots/RegisterMenuTestCases/TestCase4.JPG)  
+- **Test Case 5:** ![Test Case 5](https://github.com/ceruz99/demoBlazeTests/blob/main/screenshots/RegisterMenuTestCases/TestCase5.JPG)  
+- **Test Case 6:** ![Test Case 6](https://github.com/ceruz99/demoBlazeTests/blob/main/screenshots/RegisterMenuTestCases/TestCase6.JPG)  
+
+
+
+
 
